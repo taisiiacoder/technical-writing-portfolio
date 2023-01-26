@@ -42,11 +42,11 @@ In Git, a branch is a copy of a repository that is often used to develop new fea
 
 ### clone
 
-clone is the command user uses to copy a repository to link it to the original. The first step in working with any repository is to clone the repo locally. Git is a distributed version control system, so everyone who works on it has a local copy (clone) on their machines. The central repository is called the source. Each user can pull updates from the source and push updates to the source. See [git-clone](https://git-scm.com/docs/git-clone).
+Clone is the command user calls to copy a repository. The first step in working with any repository is to clone the repo locally. Git is a distributed version control system, so everyone who works on it has a local copy (clone) on their machines. The central repository is called the source. Each user can pull updates from the source and push updates to the source. See [git-clone](https://git-scm.com/docs/git-clone).
 
 ### commit
 
-commit is a snapshot of your changes in a repo. Git saves the commit as a snapshot in time that you can revisit later if needed. You commit your changes before pulling from the origin, or before merging your branch with another branch. See [git commit](https://git-scm.com/docs/git-commit).
+Commit is a snapshot of your changes in a repo. Git saves the commit as a snapshot in time that you can revisit later if needed. You commit your changes before pulling from the origin, or before merging your branch with another branch. See [git commit](https://git-scm.com/docs/git-commit).
 
 ### CRUD
 
@@ -54,13 +54,13 @@ CRUD is the abbreviation for Create, Read, Update, Delete. These four programmin
 
 ### curl
 
-curl is a command line utility that allows you to make HTTP requests with various options and methods. The command line can be used instead of navigating to web resources in the browser's address bar to get the same resources retrieved as text.
+Curl is a command line utility that allows you to make HTTP requests with various options and methods. The command line can be used instead of navigating to web resources in the browser's address bar to get the same resources retrieved as text.
 
 # E
 
 ### endpoints and methods
 
-endpoints show how to reach the resource, while methods indicate the allowed actions (GET, POST, DELETE and others) with the resource.
+Endpoints show how to reach the resource, while methods indicate the allowed actions (GET, POST, DELETE, and others) with the resource.
 
 The same resource can have multiple associated endpoints, each with different paths, methods, and returning different information about the same resource. Endpoints can have a short description similar to a resource description. Also, the endpoint only shows the end path of the resource's URL, without the base path common to all endpoints.
 
@@ -136,9 +136,7 @@ Parameters that appear in the endpoint path, before the query string. Path param
 
 ### pull
 
-Data extraction.
-
-In Git, when you pull data from the origin (the main place where you cloned the repo), you get the latest updates to the local system. On startup git pull, Git saves updates from the source to a local copy. If the merge cannot happen automatically, merge conflicts will be displayed. [Git-pull](https://git-scm.com/docs/git-pull).
+Data extraction. In Git, when you pull data from the origin (the main place where you cloned the repo), you get the latest updates to the local system. On startup git pull, Git saves updates from the source to a local copy. If the merge cannot happen automatically, merge conflicts will be displayed. [Git-pull](https://git-scm.com/docs/git-pull).
 
 ### pull request
 
@@ -146,9 +144,7 @@ A request from an external contributor to merge the cloned branch back into the 
 
 ### push
 
-Submit changes.
-
-The command in Git to push changes to the latest update source from the local copy (git push). The updates sync the local copy with the remote repo. [git push](https://git-scm.com/docs/git-push).
+Submit changes. The command in Git to push changes to the latest update source from the local copy (git push). The updates sync the local copy with the remote repo. [git push](https://git-scm.com/docs/git-push).
 
 # Q
 
@@ -176,7 +172,7 @@ Information returned by the API after a user makes the request. Responses are us
 
 ### response example and schema
 
-response example shows an example of a response from an example request; The response schema defines all possible elements in the response. The sample response is not exhaustive for all parameter configurations or operations, but it must match the parameters passed in the sample request. The response lets developers know if the resource contains the information they want, the format, and how that information is structured and tagged.
+Response example shows an example of a response from an example request. The response schema defines all possible elements in the response. The sample response is not exhaustive for all parameter configurations or operations, but it must match the parameters passed in the sample request. The response lets developers know if the resource contains the information they want, the format, and how that information is structured and tagged.
 
 The response description is the response schema. The response schema documents the response in a more complete, general way, listing each returned property, what each property contains, the value data format, structure, and other details.
 
@@ -224,7 +220,7 @@ Abbreviation for version control system. Git and Mercurial example
 
 ### Version control system
 
-A code management system based on commits (snapshots) that keeps content in certain states. It allows you to return to previous states, split the code into different versions, branches, etc.
+A code management system based on commits that keeps content in certain states. It allows you to return to previous states, split the code into different versions, branches, etc.
 
 # Y
 
