@@ -1,4 +1,4 @@
-# Personal data processing policy (FZ-152)
+# Personal data processing policy (5 U.S.C. § 552a)
 
 To fulfill obligations to supply goods and provide services, any online store is forced to request personal data from buyers. The Privacy Act of 1974 (5 U.S.C. § 552a) protects personal information held by the federal government by preventing unauthorized disclosures of such information. Individuals also have the right to review such information, request corrections, and be informed of any disclosures. 
 
