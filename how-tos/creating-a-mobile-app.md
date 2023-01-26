@@ -37,7 +37,7 @@ Step 1. Description of the application
 
 ![app_step_1](https://user-images.githubusercontent.com/50182933/214885128-e402ab1e-5ac0-42e3-9552-88a74a94dc87.jpg)
 
-1. Setting basic parameters
+**1. Setting basic parameters**
 
 Fill in the basic description of the future application.
 
@@ -55,6 +55,7 @@ In the second step, you need to fill in the fields that we will need to publish 
 The DCode Mobile service offers a choice of 2 publishing options:
 
 **1.  Publishing from DCode accounts in AppStore and GooglePlay.** If you choose this option, we will publish your application from our AppStore and GooglePlay accounts. You save time signing up for accounts, and you save $125/year on developer program fees. In the column "application author" our name will be indicated. In this case, we do not provide access to the AppStore and GooglePlay accounts. Recommended for small companies.
+
 **2.  Publishing from your own AppleStore and GooglePlay accounts.** Select this option if you would like to have a signature attached to the application with your company name. In this case, your company will need to purchase and annually renew membership in the developer program on the AppStore and GooglePlay. You will have full access to the developer's account in the AppStore and GooglePlay. Recommended for medium and large companies.
 
 Below are 3 services that DCode Mobile offers to get you started quickly:
@@ -65,19 +66,19 @@ Below are 3 services that DCode Mobile offers to get you started quickly:
 
 **2.  Account registration service in GooglePlay and AppStore**
 
-    **The service is available only if you have chosen to publish on behalf of your accounts.** If you do not want to research the features of registration on these sites, you can entrust it to DCode. We will register an email box for you at @gmail.com, and then, on behalf of this box, we will register accounts for your company in Apple and Google services.
+The service is available only if you have chosen to publish on behalf of your accounts. If you do not want to research the features of registration on these sites, you can entrust it to DCode. We will register an email box for you at @gmail.com, and then, on behalf of this box, we will register accounts for your company in Apple and Google services.
 
-    To publish applications from your accounts, you will need to pay for participation in the Developer Program, it costs $25 at [Google](https://support.google.com/googleplay/android-developer/answer/6112435?hl=en) and $99 at [Apple](https://developer.apple.com/support/compare-memberships/) (check with the relevant services for the current amounts). The indicated amounts must be paid by the client directly to these services. We will provide instructions inside the ticket.
+To publish applications from your accounts, you will need to pay for participation in the Developer Program, it costs $25 at [Google](https://support.google.com/googleplay/android-developer/answer/6112435?hl=en) and $99 at [Apple](https://developer.apple.com/support/compare-memberships/) (check with the relevant services for the current amounts). The indicated amounts must be paid by the client directly to these services. We will provide instructions inside the ticket.
 
-    If you already have accounts in the AppStore and GooglePlay or you want to register them yourself, you can specify access (login, password) to them in the appropriate fields below.
+If you already have accounts in the AppStore and GooglePlay or you want to register them yourself, you can specify access (login, password) to them in the appropriate fields below.
 
 **3.  Mobile application icon and splash screen development service**
 
-    Choose this service if you want our professional designers to prepare all the necessary graphic materials for publishing a mobile application, namely an application icon and a splash image. When marking this service, you must describe a small task in any form, which should reflect what you would like to see on the icon and splash screen and, if possible, attach links to materials where your corporate identity is used or described.
+Choose this service if you want our professional designers to prepare all the necessary graphic materials for publishing a mobile application, namely an application icon and a splash image. When marking this service, you must describe a small task in any form, which should reflect what you would like to see on the icon and splash screen and, if possible, attach links to materials where your corporate identity is used or described.
 
-    As soon as the images are ready, we will upload them to your personal account. You can always download them in full size, if necessary.
+As soon as the images are ready, we will upload them to your personal account. You can always download them in full size, if necessary.
 
-    If you already have images or have your in-house designer, you can upload your icon and splash screen for your mobile application.
+If you already have images or have your in-house designer, you can upload your icon and splash screen for your mobile application.
 
 After filling in all the fields, click on the "save" button to proceed to the next step.
 
@@ -145,3 +146,9 @@ To configure various settings for the blocks displayed in the mobile application
 -   **How many products to show on mobile** - specifies the number of products to display per line on mobile.
 -   **How many products to show on a tablet** - specifies the number of products that should be placed in one line on a tablet device.
 -   **Display a sticker that the site has an application** - If this option is enabled and the application is created for the site, then the site will display a sticker that the site has a mobile application when accessing this site through a mobile device; (if the sticker does not appear, update the subscription status in the **Miscellaneous → Mobile application** section).
+
+# partnership
+
+Developer partners can issue and pay for additional services and a subscription to a mobile application for their customers. In this case, the client can renew the subscription to the mobile application only through the partner.
+
+> **Notes:** If the partner fails to fulfill its obligations to timely provide subscription renewal services, the client can contact DCode support or enable direct payment.
