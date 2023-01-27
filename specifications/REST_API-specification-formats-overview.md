@@ -2,7 +2,7 @@
 
 REST APIs follow an architectural style, not a specific standard. However, several REST specifications have been developed to represent the standards as a description of the REST API. The three most popular REST API specifications are [OpenAPI (formally called Swagger)](https://github.com/OAI/OpenAPI-Specification), [RAML](https://raml.org/), and [API Blueprint](https://apiblueprint.org/).
 
-In the early years of the specifications, there was healthy competition between the formats. But now, without a doubt, the OpenAPI specification is the most popular, with the largest community, dynamics, and various tools.
+In the early years of the specifications, there was healthy competition between the formats. But now, the OpenAPI specification is the most popular, with the largest community, dynamics, and various tools.
 
 > **Note**:`OpenAPI`refers to the specification, and `Swagger`refers to API tools that read and display information in the specification. A detailed story about OpenAPI and Swagger in the following sections.
 
