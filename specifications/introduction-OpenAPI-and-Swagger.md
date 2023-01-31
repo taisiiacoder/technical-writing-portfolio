@@ -4,7 +4,7 @@ In OpenAPI, instead of XML, there is a set of JSON objects with a specific schem
 
 # A look at the OpenAPI specification
 
-The official description of the OpenAPI specification is available in [the Github repository](https://github.com/OAI/OpenAPI-Specification) . The OpenAPI elements are `paths`, `parameters`, `responses`, and `security`. Each of these elements is a JSON object that contains properties and arrays.
+The official description of the OpenAPI specification is available in [the Github repository](https://github.com/OAI/OpenAPI-Specification). The OpenAPI elements are `paths`, `parameters`, `responses`, and `security`. Each of these elements is a JSON object that contains properties and arrays.
 
 In the OpenAPI specification, your endpoints are `paths`. The endpoint `/pet`, in the OpenAPI specification, might look like this:
 
