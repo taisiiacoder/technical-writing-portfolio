@@ -29,8 +29,8 @@ Basic tab
 "Permissions" tab (settings on this tab are individual for each multisite)
 
 -   **Enable access to the administration of the current site** - flag, access to the administrative panel of the site
--   **Block "Access to menu items"** - allows you to specify which items will be available to members of this group
--   **Block "Permissions to modules"** - allows you to specify access rights to system modules for members of this group
+-   **"Access to menu items" unit** - allows you to specify which items will be available to members of this group
+-   **"Permissions to modules" unit** - allows you to specify access rights to system modules for members of this group
 
 ## Accessing menu items
 
