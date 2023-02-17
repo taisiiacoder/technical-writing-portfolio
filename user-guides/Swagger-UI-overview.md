@@ -41,9 +41,9 @@ The "Access to menu items" unit consists of 2 parts:
 -   **on the left "user menu"** - a client menu, configured in the section **Website → Menu**
 -   **on the right "admin menu"** - a menu in the administrative panel, created by modules installed on the site
 
-If a user belongs to several groups at the same time, he gets access to all menu items specified in his groups.
+If users belong to several groups at the same time, they get access to all menu items specified in their groups.
 
-Menu items to which the user does not have access are not displayed in the client part and in the administrative panel.
+Menu items to which users do not have access are not displayed in the client part and in the administrative panel.
 
 ## Access to modules
 
@@ -55,4 +55,4 @@ Each module has its own set of rights. For each right, you can specify the acce
 -   **Prohibited** - the group does not have access to this right
 -   **By default** - the group does not affect access to this right
 
-If a user belongs to several groups at the same time, the access rights of his groups are summed up. In this case, if the user's groups have different access to the right or none of the groups affects the right, the access level is determined by **the "Priority of rights" setting** in the **Administration → System settings section → the "Permissions system" tab**.
+If users belong to several groups at the same time, the access rights of their groups are summed up. In this case, if the user's groups have different access to the right or none of the groups affects the right, the access level is determined by **the "Priority of rights" setting** in the **Administration → System settings section → the "Permissions system" tab**.
