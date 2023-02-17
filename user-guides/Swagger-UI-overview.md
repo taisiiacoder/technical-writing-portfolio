@@ -38,7 +38,7 @@ Basic tab
 
 The "Access to menu items" block consists of 2 parts:
 
--   **on the left "user menu"** - client menu, configured in the section **Website → Menu**
+-   **on the left "user menu"** - a client menu, configured in the section **Website → Menu**
 -   **on the right "admin menu"** - a menu in the administrative panel, created by modules installed on the site
 
 If a user belongs to several groups at the same time, he gets access to all menu items specified in his groups.
