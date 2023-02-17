@@ -21,7 +21,7 @@ To create a new user group, click the "Add" button in the upper left corner.
 
 Basic tab
 
--   **Nickname (English)** - group identifier (it is impossible to change after the group has been created)
+-   **Nickname (English)** - group identifier (it is impossible to change after the group creation)
 -   **Group** - name for the administrative panel
 -   **Description** - textual description of the role of the group
 -   **Administrator** - flag whether the group is an administrator
