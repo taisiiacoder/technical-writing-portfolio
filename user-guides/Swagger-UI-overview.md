@@ -23,7 +23,7 @@ Basic tab
 
 -   **Nickname (English)** - group identifier (it is impossible to change after the group creation)
 -   **Group** - name for the administrative panel
--   **Description** - textual description of the role of the group
+-   **Description** - textual description of the group role
 -   **Administrator** - flag whether the group is an administrator
 
 "Permissions" tab (settings on this tab are individual for each multisite)
