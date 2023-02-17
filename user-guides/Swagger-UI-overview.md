@@ -36,7 +36,7 @@ Basic tab
 
 ![access_menu](https://user-images.githubusercontent.com/50182933/214918700-c20be73e-eb3f-4511-8b73-cc34e8fbf0e7.jpg)
 
-The "Access to menu items" block consists of 2 parts:
+The "Access to menu items" unit consists of 2 parts:
 
 -   **on the left "user menu"** - a client menu, configured in the section **Website → Menu**
 -   **on the right "admin menu"** - a menu in the administrative panel, created by modules installed on the site
